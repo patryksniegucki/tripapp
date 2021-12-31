@@ -1,0 +1,19 @@
+{
+  "name": "tripapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patryksniegucki/tripapp.git"
+  },
+  "author": "Patryk Sniegucki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patryksniegucki/tripapp"
+  },
+  "homepage": "https://github.com/patryksniegucki/tripapp#readme"
+}
